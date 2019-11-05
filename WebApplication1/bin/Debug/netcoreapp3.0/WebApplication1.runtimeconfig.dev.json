@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Revature Loaner\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Revature Loaner\\.nuget\\packages"
+    ]
+  }
+}
